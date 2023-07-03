@@ -179,12 +179,14 @@ svg text {
   }
   
   .cards .card p.tip {
-    font-size: 1em;
-    font-weight: 700;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
   }
   
   .cards .card p.second-text {
-    font-size: .7em;
+    font-size: 18px;
+    color: #1f2937;
   }
   
   .cards .card:hover {
