@@ -107,6 +107,13 @@ svg text {
 	}
 }
 
+.heading-2 {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937;
+  text-align: center;
+}
+
 .logo {background-color: #FFFFFF;
     display: flex;
     justify-content: flex-start;
