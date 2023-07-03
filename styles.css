@@ -23,6 +23,7 @@ ul {
 }
 a {
   color: #e5e7e8;
+  text-decoration : none;
 }
 .logo,
 .menu-right {
@@ -34,17 +35,41 @@ a {
 .pilot {
   display: flex;
   flex-direction: row;
+  margin: 50px;
 
 }
 
-.pilot-left,
 .pilot-right {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  width: 50%;
 }
 
+.pilot-left {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin-left: 90px;
+  justify-content: center;
+  /*align-items: center;*/
+
+}
+
+.img {
+  margin: 50px;
+}
+
+.sign-up {
+  background-color: #3882f6;
+  color: #f9f8f8;
+  width: 100px;
+  height: 30px;
+  border: 1px;
+  border-radius: 12px;
+
+}
 
 #logo {
   font-size: 24px;
