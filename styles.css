@@ -283,4 +283,11 @@ button:hover {
   color: #3882f6;
   border: 2px solid #3882f6;
 }
-
+.footer {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1f2937;
+  color: #e5e7eb;
+}
